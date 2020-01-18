@@ -1098,7 +1098,6 @@ input, select, textarea{
 }
 
 #console-log {
-    border: 2px solid;
     height: 300px;
     overflow-x: hidden;
     overflow-y: scroll;
